@@ -55,10 +55,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](![Screenshot 2023-06-05 110321](https://github.com/Naveensrinivasan07/Sorting-Algorithm/assets/119475891/5167f680-7178-4f19-9cca-6167c897ee52)
-)
-![output](![Screenshot 2023-06-05 110328](https://github.com/Naveensrinivasan07/Sorting-Algorithm/assets/119475891/33da586c-4d38-4378-8c20-e7ded744fb79)
-)
+![Screenshot 2023-06-05 110321](https://github.com/Naveensrinivasan07/Sorting-Algorithm/assets/119475891/5167f680-7178-4f19-9cca-6167c897ee52)
+
+![Screenshot 2023-06-05 110328](https://github.com/Naveensrinivasan07/Sorting-Algorithm/assets/119475891/33da586c-4d38-4378-8c20-e7ded744fb79)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
